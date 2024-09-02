@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm an enthusiastic learner with a diverse background and a passion for solving problems. My journey began as a high-level soccer player, which instilled in me an obsession for continuous skill building and personal development. After studying Economics at Brock University and gaining experience as a data analyst and in various management roles within the hospitality and tourism sectors, I discovered a fascination for quantitative investing. This led me to an ongoing four-year project exploring the ins and outs of the financial world.
+I'm an enthusiastic learner with a diverse background and a passion for solving problems. My journey began as a high-level soccer player, which instilled in me an obsession for continuous skill building and personal development. After studying Economics at Brock University and gaining experience as a data analyst and in various management roles within the hospitality and tourism sectors, I discovered a fascination for quantitative investing. This led me to an ongoing four-year project exploring the ins and outs of the financial world. Through managing a large database on my own. I quickly discovered the benefits of learning to code and working with AI to simplify my tasks and create an efficient workflow.
 
-Beyond my professional interests, I'm passionate about surfing and snowboarding, which has taken me around the world in pursuit of the best waves and mountains. These experiences have enriched my understanding of different cultures. Over time, as my interests shifted from physical to mental challenges, I found coding to be a perfect fit for my problem-solving nature.
+Beyond my professional interests, I'm passionate about surfing, snowboarding and all things outdoors, which has taken me around the world in pursuit of the best waves and mountains. These experiences have enriched my understanding of different cultures. Over time, as my interests shifted from physical to mental challenges, I found coding to be a perfect fit for my problem-solving nature.
 
 ## Education
 
