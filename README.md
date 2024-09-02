@@ -25,7 +25,7 @@ Prior to BrainStation, I studied Economics at Brock University, where I develope
 
 - **Food Market (Capstone Project):** An innovative grocery store item price comparison app that helps users compare prices against market averages and track prices over time. Built with full-stack technologies similar to BrainFlix, it also utilizes Capacitor for offline use and app store deployment. I was the lead developer and was responsible for both the front-end and back-end development of the application.
 
-- **Noojmowin Teg Project:** Developed dynamic forms for purchase orders, check requisitions, and mileage trackers for a non-profit organization funded by Health Canada. This project aimed at providing efficient healthcare solutions to Indigenous communities.
+- **Noojmowin Teg Project:** Developed dynamic forms for purchase orders, check requisitions, and mileage trackers for a non-profit organization funded by Health Canada. This project aimed at providing simple and efficient solutions to managing data so Noojmowin Teg employees can focus on healthcare solutions to Indigenous communities.
 
 ## What I'm Learning
 
