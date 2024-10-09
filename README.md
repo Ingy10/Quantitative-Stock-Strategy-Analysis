@@ -39,7 +39,7 @@ Prior to BrainStation, I studied Economics at Brock University, where I develope
 
 ## What I'm Learning
 
-I am currently expanding my expertise in data science and analytics through a 16-week program with M2M Tech, where I'm learning to integrate coding with data analytics to create impactful solutions. This course is deepening my understanding of how to harness data for meaningful insights, combining my coding skills with advanced analytical techniques. Additionally, I am broadening my programming knowledge by learning languages like C through the Harvard CS50 course, which is enhancing my problem-solving abilities and technical versatility.
+I am currently expanding my expertise in data science and analytics through a 16-week program with M2M Tech, where I'm learning to integrate coding with data analytics to create impactful solutions. This course is deepening my understanding of how to harness data for meaningful insights, combining my coding skills with advanced analytical techniques. Additionally, I am broadening my programming knowledge by learning computer science fundamentals as well as languages like Python and C through the Harvard CS50 course, which is enhancing my problem-solving abilities and technical versatility.
 
 ## Career Goals
 
